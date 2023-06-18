@@ -1,0 +1,13 @@
+D:\C#\SMS\SMS\bin\Debug\SMS.exe.config
+D:\C#\SMS\SMS\bin\Debug\SMS.exe
+D:\C#\SMS\SMS\bin\Debug\SMS.pdb
+D:\C#\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+D:\C#\SMS\SMS\obj\Debug\SMS.csproj.SuggestedBindingRedirects.cache
+D:\C#\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\C#\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+D:\C#\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+D:\C#\SMS\SMS\obj\Debug\SMS.exe
+D:\C#\SMS\SMS\obj\Debug\SMS.pdb
+D:\C#\SMS\SMS\obj\Debug\SMS.FrmMain.resources
+D:\C#\SMS\SMS\obj\Debug\SMS.FrmLogin.resources
+D:\C#\SMS\SMS\obj\Debug\SMS.FrmStudent.resources
